@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chris-02709
 - 👀 I’m interested in working with possible clients with the initiative to hit demands in matters automated operations
-- 🌱 I’m currently learning to create bots to automate forex trading 
 - 💞️ I’m looking to collaborate on developing enhancive projects that will enable automation of tasks
 - 📫 How to reach me. Contact me via my email chrisngatia40@gmail.com
 - 😄 Pronouns: ...
