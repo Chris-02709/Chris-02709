@@ -32,7 +32,7 @@ Building brands and digital experiences with clean design and modern code.
 
 ## 🧠 About Me:
 - 🎯 Currently studying Diploma in ICT @ The Nyeri National Polytechnic
-- 🧩 Founder of **Infinite Pixels** – Design + Web + Internet Marketing
+- 🧩 Founder of **Infinite Pixels** – Graphic Design + Web Development
 - 🔥 Passionate about branding, creative design, and building modern web apps
 - 🌍 Open to freelance gigs, collabs, and creative projects!
 
