@@ -11,6 +11,9 @@ Building brands and digital experiences with clean design and modern code.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-00c2cb?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Design & UI/UX:**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -47,5 +50,4 @@ Building brands and digital experiences with clean design and modern code.
 
 ## 📂 Projects You Might Like:
 - 🛍️ [BEU Online Boutique](https://github.com/Chris-02709/BEU-Online-Boutique.git) – A responsive online shopping platform (HTML, CSS, JS)
-
 ---
