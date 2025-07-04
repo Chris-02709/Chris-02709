@@ -48,6 +48,3 @@ Building brands and digital experiences with clean design and modern code.
 
 ---
 
-## 📂 Projects You Might Like:
-- 🛍️ [BEU Online Boutique](https://github.com/Chris-02709/BEU-Online-Boutique.git) – A responsive online shopping platform (HTML, CSS, JS)
----
